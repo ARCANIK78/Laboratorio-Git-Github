@@ -1,0 +1,14 @@
+Proyecto 5
+
+el proyecto tendra
+html
+css
+javascript 
+django 
+react
+apis rest
+oracle 
+docker
+.net asp
+git
+github
