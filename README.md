@@ -1,2 +1,2 @@
 # Laboratorio-Git-Github
-Practca de cursos de udemy
+Practica de cursos de udemy
