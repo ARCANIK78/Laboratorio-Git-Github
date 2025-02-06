@@ -9,10 +9,10 @@ int main(){
     int operacion;
     operacion = suma / 3;
     cout << "operacion << "Total promedio" << "endl ;
-    operacion2;
-    operacion2 = a **2(a/b+3)
+    int operacion2;
+    operacion2 = a **2(a/b+3) + ( 3 * a)
     operacion3;
-    operacion3 = b + 100
+    int operacion3 = b + 100
     cout << diferncia entre Op1 << operacion2 << " y " operacion3";
     cout << "Final << "\n";
 }
