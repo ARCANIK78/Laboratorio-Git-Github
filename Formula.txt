@@ -11,8 +11,9 @@ int main(){
     cout << "operacion << "Total promedio" << "endl ;
     int operacion2;
     operacion2 = a **2(a/b+3) + ( 3 * a)
-    operacion3;
     int operacion3 = b + 100
+    operacion3 = b + 100
+>>>>>>> master
     cout << diferncia entre Op1 << operacion2 << " y " operacion3";
     cout << "Final << "\n";
     
