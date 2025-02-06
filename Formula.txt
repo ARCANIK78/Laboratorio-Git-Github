@@ -24,5 +24,11 @@ int main(){
     for(int x = 0 ; x < a; x++){
          cout <<  vercto[x];
     }
+    int bide[n][n];
+    for(int x=0;x<n;x++){
+    	for(int y=0;y<n;y++){
+    	     cin >> bide[x][y];
+    	}
+    }
 }
 
