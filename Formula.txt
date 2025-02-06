@@ -6,4 +6,7 @@ int main(){
     int a,b,c;
     suma = a+b+c;
     cout << suma << endl;
+    int operacion;
+    operacion = suma / 3;
+    cout << "operacion << "Total promedio" << "endl ;
 }
