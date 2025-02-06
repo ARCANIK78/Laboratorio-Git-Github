@@ -15,5 +15,13 @@ int main(){
     int operacion3 = b + 100
     cout << diferncia entre Op1 << operacion2 << " y " operacion3";
     cout << "Final << "\n";
+    
+    int vercto[a];
+    for(int x = 0 ; x < a; x++){
+         cin >> vercto[x];
+    }
+    for(int x = 0 ; x < a; x++){
+         cout <<  vercto[x];
+    }
 }
 
